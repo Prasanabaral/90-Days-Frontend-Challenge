@@ -16,7 +16,11 @@ Welcome to my coding journey! I'm Prasana Baral, a self-taught developer startin
 ## 📚 Daily Progress:
 | Day | Topic | Notes | Video Link |
 |-----|-------|-------|------------|
-| begin  | Challenge Intro | Setup, mindset, planning | [Watch Video](https://www.youtube.com/@prasanabaral) |
+| begin  | Challenge Intro | Setup, mindset, planning | [Watch Video](https://www.youtube.com/@prasanabaral) |Day | Topic | Notes | Video Link|
+|----|-------|-------|------------|
+📅 Day 1: First HTML Page Created | VS Code Setup + Live Server
+- Added h1, p, img tags
+- First website completed
 
 > 💡 Updating this table every day as I progress.
 
