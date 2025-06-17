@@ -19,9 +19,9 @@ Welcome to my coding journey! I'm Prasana Baral, a self-taught developer startin
 | begin  | Challenge Intro | Setup, mindset, planning | [Watch Video](https://www.youtube.com/@prasanabaral) 
 ## 🚀 90 Days Web Development Challenge Progress
 
-| Day | Date       | Topic Covered                             | Project/Task Done                  | GitHub Link            |
+| Day | Date       | Topic Covered                             | Project/Task Done                  | video Link            |
 |-----|------------|--------------------------------------------|------------------------------------|------------------------|
-| 1   | 2025-06-15 | VS Code Setup, Live Server, HTML Tags     | Created First Webpage (Bio+Image) | [Link 🔗](https://github.com/prasanabaral/your-repo-link) |
+| Day 1- 90days  | 2025-06-17 | VS Code Setup, Live Server, HTML Tags     | Created First Webpage (Bio+Image) | [Link 🔗](https://youtube.com/shorts/nbOdp7Mt9nk?si=YmVYOKOLbd1_-vXn) |
 
 > 💡 Updating this table every day as I progress.
 
