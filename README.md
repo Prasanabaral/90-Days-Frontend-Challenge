@@ -13,15 +13,12 @@ Welcome to my coding journey! I'm Prasana Baral, a self-taught developer startin
 
 ## 🗓️ Start Date: June 16, 2025
 
-## 📚 Daily Progress:
-| Day | Topic | Notes | Video Link |
-|-----|-------|-------|------------|
-| begin  | Challenge Intro | Setup, mindset, planning | [Watch Video](https://www.youtube.com/@prasanabaral) 
-## 🚀 90 Days Web Development Challenge Progress
-
-| Day | Date       | Topic Covered                             | Project/Task Done                  | video Link            |
-|-----|------------|--------------------------------------------|------------------------------------|------------------------|
+## 📚 90 Days Frontend Developer Challenge Daily Progress Table:
+| Day |Date | Topic | Notes | Video Link |
+|-----|-------|-------|------------|-------|
+| begin  |2025-05-16| Challenge Intro | Setup, mindset, planning | [Watch Video](https://www.youtube.com/@prasanabaral) 
 | Day 1- 90days  | 2025-06-17 | VS Code Setup, Live Server, HTML Tags     | Created First Webpage (Bio+Image) | [Link 🔗](https://youtube.com/shorts/nbOdp7Mt9nk?si=YmVYOKOLbd1_-vXn) |
+| day 2-90days | 2025-06-18 | useing html tag:h1,hr,a,img,ul,ol create my first wesite | my first project| [project Link 🔗](https://prasanabaralproject-01.netlify.app/) [Watch Video](https://youtube.com/shorts/-WFJlyr2P-A?si=_gwP-nw5-sxC1CHN)|
 
 > 💡 Updating this table every day as I progress.
 
