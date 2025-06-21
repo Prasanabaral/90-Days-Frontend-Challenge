@@ -20,7 +20,8 @@ Welcome to my coding journey! I'm Prasana Baral, a self-taught developer startin
 | Day 1- 90days  | 2025-06-17 | VS Code Setup, Live Server, HTML Tags     | Created First Webpage (Bio+Image) | [Link 🔗](https://youtube.com/shorts/nbOdp7Mt9nk?si=YmVYOKOLbd1_-vXn) |
 | Day 2-90days | 2025-06-18 | useing html tag:h1,hr,a,img,ul,ol create my first wesite | my first project| [project Link 🔗](https://prasanabaralproject-01.netlify.app/) [Watch Video](https://youtube.com/shorts/-WFJlyr2P-A?si=_gwP-nw5-sxC1CHN)|
 | Day3-90days | 2025-06-19 | know about inline vs block element and also `<div>` and `<span>` tag | Understood the difference between inline and block elements. Also learned how and when to use `<div>` and `<span>` tags in HTML structure. | [Watch Video](https://youtube.com/shorts/RVCe388RuYY?si=jn7ZHDoLlf-eE0tT) |
-| Day4-90days | 2025-06-20 | Tag vs Element, Semantic Tags, Global & Custom Attributes | Learned the difference between tag and element. Explored semantic tags for meaningful HTML, and understood the use of global and custom attributes. | [Watch Video](https://youtube.com/shorts/vpTUMo3TlJY?si=6RISm2V8zUhJRECm) |
+| Day4-90days | 2025-06-20 | Tag vs Element, Semantic Tags, Global & Custom Attributes | Learned the difference between tag and element. Explored semantic tags for meaningful HTML, and understood the use of global and custom attributes. | [Watch Video](https://youtube.com/shorts/vpTUMo3TlJY?si=6RISm2V8zUhJRECm) |                                            
+| Day 5-90days | 2025-06-21 | HTML Form Element   | Learned how `<form>` tag works with input types & attributes (placeholder, required, etc.) | [Watch Video](https://www.youtube.com/@prasanabaral) |
 
 
 > 💡 Updating this table every day as I progress.
