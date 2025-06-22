@@ -22,6 +22,7 @@ Welcome to my coding journey! I'm Prasana Baral, a self-taught developer startin
 | Day3-90days | 2025-06-19 | know about inline vs block element and also `<div>` and `<span>` tag | Understood the difference between inline and block elements. Also learned how and when to use `<div>` and `<span>` tags in HTML structure. | [Watch Video](https://youtube.com/shorts/RVCe388RuYY?si=jn7ZHDoLlf-eE0tT) |
 | Day4-90days | 2025-06-20 | Tag vs Element, Semantic Tags, Global & Custom Attributes | Learned the difference between tag and element. Explored semantic tags for meaningful HTML, and understood the use of global and custom attributes. | [Watch Video](https://youtube.com/shorts/vpTUMo3TlJY?si=6RISm2V8zUhJRECm) |                                            
 | Day 5-90days | 2025-06-21 | HTML Form Element   | Learned how `<form>` tag works with input types & attributes (placeholder, required, etc.) | [Watch Video](https://www.youtube.com/@prasanabaral) |
+| DAY-6 | 2025-06-22 | Doctype, Navigation, File Linking | Doctype use, navigation bar, About/Contact sections | [Watch Video](https://www.youtube.com/@prasanabaral) |
 
 
 > 💡 Updating this table every day as I progress.
